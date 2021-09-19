@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://macevelly.github.io/csb-9r4tb/static/css/main.d54994e9.chunk.css",
+    "main.js": "https://macevelly.github.io/csb-9r4tb/static/js/main.9f06c8df.chunk.js",
+    "main.js.map": "https://macevelly.github.io/csb-9r4tb/static/js/main.9f06c8df.chunk.js.map",
+    "runtime-main.js": "https://macevelly.github.io/csb-9r4tb/static/js/runtime-main.bafb4ba4.js",
+    "runtime-main.js.map": "https://macevelly.github.io/csb-9r4tb/static/js/runtime-main.bafb4ba4.js.map",
+    "static/js/2.34078fef.chunk.js": "https://macevelly.github.io/csb-9r4tb/static/js/2.34078fef.chunk.js",
+    "static/js/2.34078fef.chunk.js.map": "https://macevelly.github.io/csb-9r4tb/static/js/2.34078fef.chunk.js.map",
+    "index.html": "https://macevelly.github.io/csb-9r4tb/index.html",
+    "static/css/main.d54994e9.chunk.css.map": "https://macevelly.github.io/csb-9r4tb/static/css/main.d54994e9.chunk.css.map",
+    "static/js/2.34078fef.chunk.js.LICENSE.txt": "https://macevelly.github.io/csb-9r4tb/static/js/2.34078fef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bafb4ba4.js",
+    "static/js/2.34078fef.chunk.js",
+    "static/css/main.d54994e9.chunk.css",
+    "static/js/main.9f06c8df.chunk.js"
+  ]
+}
